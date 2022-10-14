@@ -1,0 +1,31 @@
+img {
+  height: 200px;
+  width: 200px;
+  image-rendering: optimizeQuality;
+  margin: 0 auto;
+}
+
+.text-color {
+  color: white;
+}
+
+.button {
+  font: bold 17px Arial;
+  text-decoration: none;
+  background-color: #131212;
+  color: #e7d1d1;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #cccccc;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #cccccc;
+}
+
+p {
+  word-spacing: 2px;
+  font-weight: 600;
+}
+
+h2 {
+  color: rgb(224, 213, 213);
+}
